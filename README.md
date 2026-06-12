@@ -81,3 +81,4 @@ pip install -r requirements.txt
 4. Read the "Recommendations" section — it tells you exactly which frequency bands, DCT coefficients, and noise levels to adjust
 5. Tune your pipeline and repeat
 # Image_forensics
+# Image_forensics
